@@ -1,0 +1,11 @@
+ultralytics
+torch>=2.4
+torchvision>=0.19
+opencv-python
+numpy
+requests
+fastapi[standard]
+uvicorn[standard]
+httpx
+aiofiles
+python-multipart
